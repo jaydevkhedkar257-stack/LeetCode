@@ -11,4 +11,4 @@ class Solution:
                 stack.append(c)
             else:
                 stack.append(i)
-        return int(stack[0])
+        return int(stack.pop())
