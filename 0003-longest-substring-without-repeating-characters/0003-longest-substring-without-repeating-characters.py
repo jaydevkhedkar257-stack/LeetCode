@@ -1,18 +1,14 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        if(not s):
-            return 0
+        char_set = set()
         i = 0
-        j = 0
-        count = 0 
-        while j <= len(s):
-            set_s = set(s[i:j])
-            list_s = list(s[i:j])
-            if(len(set_s) == len(list_s)):
-                j += 1
-                count = max(count,len(list_s))
-                # print(set_s,list_s,count,"ACCEPTED",sep = "\t")
-            else:
+        count = 0
+
+        for j in range(len(s)):
+            while s[j] in char_set:
+                char_set.remove(s[i])
                 i += 1
-                # print(set_s,list_s,count,"IGNORED",sep = "\t")
+            char_set.add(s[j])
+            count = max(count, j - i + 1)
+
         return count
