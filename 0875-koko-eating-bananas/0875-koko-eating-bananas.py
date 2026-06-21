@@ -1,18 +1,17 @@
-import math
-from typing import List
-
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        lo, hi = 1, max(piles)
-        
-        def hoursNeeded(k):
-            return sum(math.ceil(pile / k) for pile in piles)
-        
-        while lo < hi:
-            mid = (lo + hi) // 2
-            if hoursNeeded(mid) <= h:
-                hi = mid       # mid works, try smaller speed
+        l, r = 1, max(piles)
+        res = r
+
+        while l <= r:
+            k = (l + r) // 2
+
+            totalTime = 0
+            for p in piles:
+                totalTime += math.ceil(float(p) / k)
+            if totalTime <= h:
+                res = k
+                r = k - 1
             else:
-                lo = mid + 1   # mid too slow, need bigger speed
-        
-        return lo
+                l = k + 1
+        return res
