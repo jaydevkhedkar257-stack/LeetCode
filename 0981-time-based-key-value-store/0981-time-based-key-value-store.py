@@ -23,8 +23,6 @@ class TimeMap:
                     i = mid + 1
                 else:
                     j = mid - 1
-            print(f"mid = {mid}, value = {values[mid]}")
-            print(self.kv_store)
             if(values[mid][1] > timestamp):
                 return values[mid-1][0]
             return values[mid][0]
