@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0011-container-with-most-water) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
