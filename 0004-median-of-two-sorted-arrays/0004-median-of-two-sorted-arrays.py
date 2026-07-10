@@ -1,32 +1,27 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        # Ensure nums1 is the smaller array
-        if len(nums1) > len(nums2):
-            nums1, nums2 = nums2, nums1
+        A, B = nums1, nums2
+        total = len(nums1) + len(nums2)
+        half = total // 2
 
-        m, n = len(nums1), len(nums2)
-        total = m + n
-        half = (total + 1) // 2  # size of left partition
+        if len(B) < len(A):
+            A, B = B, A
 
-        lo, hi = 0, m
-        while lo <= hi:
-            i = (lo + hi) // 2      # elements taken from nums1 into left half
-            j = half - i            # elements taken from nums2 into left half
+        l, r = 0, len(A) - 1
+        while True:
+            i = (l + r) // 2
+            j = half - i - 2
 
-            left1 = nums1[i - 1] if i > 0 else float('-inf')
-            right1 = nums1[i] if i < m else float('inf')
-            left2 = nums2[j - 1] if j > 0 else float('-inf')
-            right2 = nums2[j] if j < n else float('inf')
+            Aleft = A[i] if i >= 0 else float("-infinity")
+            Aright = A[i + 1] if (i + 1) < len(A) else float("infinity")
+            Bleft = B[j] if j >= 0 else float("-infinity")
+            Bright = B[j + 1] if (j + 1) < len(B) else float("infinity")
 
-            if left1 <= right2 and left2 <= right1:
-                # Correct partition found
-                if total % 2 == 1:
-                    return float(max(left1, left2))
-                else:
-                    return (max(left1, left2) + min(right1, right2)) / 2
-            elif left1 > right2:
-                hi = i - 1  # took too many from nums1, move left
+            if Aleft <= Bright and Bleft <= Aright:
+                if total % 2:
+                    return min(Aright, Bright)
+                return (max(Aleft, Bleft) + min(Aright, Bright)) / 2
+            elif Aleft > Bright:
+                r = i - 1
             else:
-                lo = i + 1  # took too few from nums1, move right
-
-        raise ValueError("Input arrays are not sorted properly")
+                l = i + 1
