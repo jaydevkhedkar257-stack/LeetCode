@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
+| [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
