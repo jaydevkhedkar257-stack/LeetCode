@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
