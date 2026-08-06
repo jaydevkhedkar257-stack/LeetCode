@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
