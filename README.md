@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0268-missing-number) |
@@ -437,5 +439,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
