@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0412-fizz-buzz) |
+| [2769-find-the-maximum-achievable-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
