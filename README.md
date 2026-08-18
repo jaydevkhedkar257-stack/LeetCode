@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3668-restore-finishing-order](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sorting
