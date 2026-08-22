@@ -475,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
