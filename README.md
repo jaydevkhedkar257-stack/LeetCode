@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3110-score-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
