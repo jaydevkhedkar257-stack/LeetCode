@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
 |  |
