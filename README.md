@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0567-permutation-in-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
