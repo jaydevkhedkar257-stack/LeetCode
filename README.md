@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1108-defanging-an-ip-address](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
