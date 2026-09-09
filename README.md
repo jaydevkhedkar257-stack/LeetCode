@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0090-subsets-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0100-same-tree) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
