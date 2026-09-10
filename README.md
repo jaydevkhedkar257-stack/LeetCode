@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0217-contains-duplicate) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0268-missing-number) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
@@ -549,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0022-generate-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
