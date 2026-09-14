@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0739-daily-temperatures) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
