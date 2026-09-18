@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
