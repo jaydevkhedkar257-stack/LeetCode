@@ -11,7 +11,7 @@ class Solution:
 
         while q:
             temp = q.popleft()
-            if temp.val in range(low, high+1):
+            if temp.val >= low and temp.val <= high:
                 sum_inc += temp.val
             if temp.left:
                 q.append(temp.left)
