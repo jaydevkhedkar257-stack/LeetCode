@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
+| [0938-range-sum-of-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Merge Sort
 |  |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Number Theory
 |  |
 | ------- |
