@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0338-counting-bits) |
+| [0746-min-cost-climbing-stairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
