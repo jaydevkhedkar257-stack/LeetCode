@@ -1,8 +1,9 @@
 class Solution:
-    def rob(self, nums: list[int]) -> int:
-        i = len(nums) - 3
-        while i >= 0:
-            nums[i] += max(nums[i+2:len(nums)])
-            i -= 1
+    def rob(self, nums: List[int]) -> int:
+        rob1, rob2 = 0, 0
 
-        return max(nums[0],nums[1]) if len(nums) > 3 else max(nums)
+        for num in nums:
+            temp = max(num + rob1, rob2)
+            rob1 = rob2
+            rob2 = temp
+        return rob2
