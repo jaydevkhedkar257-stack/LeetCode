@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
