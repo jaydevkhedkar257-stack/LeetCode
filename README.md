@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0011-container-with-most-water) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
