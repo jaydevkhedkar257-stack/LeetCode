@@ -717,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
