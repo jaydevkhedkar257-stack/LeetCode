@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1720-decode-xored-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1816-truncate-sentence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Doubly-Linked List
