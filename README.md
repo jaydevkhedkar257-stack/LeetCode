@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
@@ -728,4 +731,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
