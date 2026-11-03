@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1603-design-parking-system](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1603-design-parking-system) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Merge Sort
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Number Theory
 |  |
@@ -771,4 +776,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
