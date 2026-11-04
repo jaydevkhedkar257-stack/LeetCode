@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1046-last-stone-weight) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
