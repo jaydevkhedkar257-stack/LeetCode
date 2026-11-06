@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1046-last-stone-weight) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0853-car-fleet](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0412-fizz-buzz) |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1486-xor-operation-in-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -782,4 +788,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
