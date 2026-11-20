@@ -8,17 +8,14 @@ class Solution:
     def deepestLeavesSum(self, root: TreeNode | None) -> int:        
         q = deque([root])
         while q:
-            temp = []
+            deepestLeaveSum = 0
             for i in range(len(q)):
                 element = q.popleft()
+                deepestLeaveSum += element.val
                 if element.left:
                     q.append(element.left)
                 if element.right:
                     q.append(element.right)
-                temp.append(element)
-        deepestLeaveSum = 0
-        for i in temp:
-            deepestLeaveSum += i.val
 
         return deepestLeaveSum
             
