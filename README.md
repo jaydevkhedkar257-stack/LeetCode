@@ -742,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0684-redundant-connection) |
+| [1791-find-center-of-star-graph](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
 |  |
