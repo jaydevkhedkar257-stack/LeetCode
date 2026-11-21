@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0075-sort-colors) |
