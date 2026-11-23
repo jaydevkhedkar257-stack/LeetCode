@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1476-subrectangle-queries](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
+| [1476-subrectangle-queries](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1476-subrectangle-queries](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1603-design-parking-system) |
 ## Math
 |  |
