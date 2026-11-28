@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1046-last-stone-weight) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1313-decompress-run-length-encoded-list](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jaydevkhedkar257-stack/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
